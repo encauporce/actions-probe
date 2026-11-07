@@ -1,0 +1,4 @@
+name: ping
+on: push
+jobs:/n  p:/n    runs-on: ubuntu-latest
+    steps:/n      - run: echo hi
